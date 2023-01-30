@@ -20,6 +20,8 @@ Here are the technologies used in this project.
 
 ### 1 - When you access, you will see the Home page <3
 
+https://github.com/SgCafe/Social-Tree/blob/master/assets/readme.png
+
 ## Authors
 
 - **Sérgio Gabriel Café**
