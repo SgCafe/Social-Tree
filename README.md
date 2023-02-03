@@ -1,4 +1,4 @@
-# Social-Tree
+# 🌲 Social-Tree
 
 This is my Social Tree!
 
